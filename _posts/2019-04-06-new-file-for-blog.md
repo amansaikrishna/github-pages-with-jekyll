@@ -1,1 +1,4 @@
-This post i wanna post so lemme post.
+---
+title: "First blog created"
+date: 2019-04-07
+---
